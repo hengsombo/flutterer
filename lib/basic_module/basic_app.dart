@@ -20,7 +20,6 @@ Widget providerBasicApp() {
     child: BasicApp(),
   );
 }
-
 class BasicApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
